@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://fabricio-derp.github.io/portfolio/app/Style/Assets/Images/profile-picture.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://fabriciosouza0.github.io/portfolio/app/Style/Assets/Images/profile-picture.jpg">
 </div>
   
   ##
