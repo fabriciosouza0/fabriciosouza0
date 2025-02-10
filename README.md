@@ -1,26 +1,60 @@
-## Olá! Sou o Fabricio, um desenvolvedor web full-stack!
-<div align="center">
-  <a href="https://github.com/fabriciosouza0">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=fabriciosouza0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosouza0&layout=compact&langs_count=7&theme=dracula"/>
+## Hello! I am Fabrício👋
+
+<img align="right" src="https://github.com/fabriciosouza0/fabriciosouza0/blob/main/programmer.gif" alt="Coder GIF" width="420" height="330">
+
+- <p>💻<em>Studying Systems Analysis and Development <a href="https://estacio.br/">Estácio</a></em></p>
+- <p>👩🏽‍💻<em>Full Stack Web Developer</em></p>
+- <p>😊<em>Eu gosto de Tecnologia, de assistir filmes, ler livros...</em></p>
+
+##
+
+“Success is not final; failure is not fatal: It is the courage to continue that counts.”
+
+<em>(Winston Churchill)</em>
+
+##
+
+### I have already worked with... 🔧
+
+**Technologies and Tools**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23F7DF1E)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23316192.svg?style=for-the-badge&logo=aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
+
+### I am studying... 🧩
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nextjs](https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+##
+
+### GitHub Stats ⚡
+
+<div>
+<a href="https://github.com/fabriciosouza0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosouza0&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciosouza0&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://fabriciosouza0.github.io/portfolio/app/Style/Assets/Images/profile-picture.jpg">
+
+### Entre em contato comigo! 📭
+
+<div>
+<a href="mailto:gsf.gabriellasantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fabriciosouzaslv190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-  ##
-  
-<div> 
- <a href="https://www.linkedin.com/in/fabricio-souza-0550aa239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:contatofabriciosouza0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/fabriciosouza_0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/rpacxAxNAZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+  ![Snake animation](https://github.com/fabriciosouza0/fabriciosouza0/blob/output/github-contribution-grid-snake.svg)
 </div>
