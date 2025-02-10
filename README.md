@@ -49,12 +49,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciosouza0&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
+### Contact me! 📭
 
 <div>
-<a href="mailto:gsf.gabriellasantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:fabriciosouzaslv190@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fabriciosouzaslv190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
-  ![Snake animation](https://github.com/fabriciosouza0/fabriciosouza0/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/fabriciosouza0/fabriciosouza0/blob/output/github-contribution-grid-snake.svg)
