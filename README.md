@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/fabriciosouza0/fabriciosouza0/blob/main/programmer.gif" alt="Coder GIF" width="420" height="330">
 
-- <p>💻<em>Studying Systems Analysis and Development <a href="https://estacio.br/">Estácio</a></em></p>
+- <p>💻<em>Studying Systems Analysis and Development at <a href="https://estacio.br/">Estácio</a></em></p>
 - <p>👩🏽‍💻<em>Full Stack Web Developer</em></p>
 - <p>😊<em>I like to write code, watch anime and play games...</em></p>
 
